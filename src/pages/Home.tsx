@@ -21,7 +21,6 @@ import Kanye4 from "../../assets/kanye4.jpeg";
 import Kanye5 from "../../assets/kanye5.jpeg";
 import Kanye6 from "../../assets/kanye6.jpeg";
 import Kanye7 from "../../assets/kanye7.jpeg";
-import axios from "axios";
 
 const kanyeMap = [
   {
